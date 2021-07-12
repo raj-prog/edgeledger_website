@@ -166,3 +166,24 @@ img {
   padding: 12px 0;
   margin: 20px;
 }
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 200px;
+}
+
+.footer a {
+  color: #fff;
+}
+
+.footer a:hover {
+  color: #28a745;
+}
+
+.footer .social > * {
+  margin-right: 30px;
+}
