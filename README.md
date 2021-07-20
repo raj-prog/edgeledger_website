@@ -1,3 +1,3 @@
 # edgeledger_website
 
-A Modern website
+A Modern Website
